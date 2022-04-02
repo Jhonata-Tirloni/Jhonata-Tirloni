@@ -7,7 +7,7 @@ Business Intelligence Analyst & Data Scientist at @Sicredi<br>
 
 Machine Learning, data science & nerdy stuff enthusiast.
 
-Graduated at Systems Analysis and Development by IFMT and post-graduating at Artificial Intelligence & Machine Learnng.
-Specialist at Data Science with Python 🐍.
+Graduated at Systems Analysis and Development by IFMT and post-graduating at Artificial Intelligence & Machine Learnng.<br>
+Specialist at Data Science & Machine Learning with Python 🐍.
 
 <i>"If you can't explain it simply, you don't understand it well enough."</i>
